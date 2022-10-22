@@ -1,0 +1,11 @@
+{ 
+"name": "STREET MONEY",
+"website": "https://www.modfxmarket.com/street",
+"description": "A sustainable community-driven project to grow and creating more products from STREET.",
+"explorer": "https://bscscan.com/token/0x7599419a804c792239098917e5bb5b75c9071cf3",
+"type": "BEP20",
+"symbol": "STREET",
+"decimals": 18,
+"status": "active",
+"id": "0x7599419A804C792239098917E5BB5B75c9071Cf3"
+}
